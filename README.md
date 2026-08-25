@@ -1,13 +1,7 @@
 # VoltWay
 
 <p align="center">
-  <a href="./docs/voltway-demo.mp4">
-    <img src="./docs/voltway-demo-preview.png" width="320" alt="VoltWay onboarding demo">
-  </a>
-</p>
-
-<p align="center">
-  <a href="./docs/voltway-demo.mp4"><strong>▶ Watch the full app demo</strong></a>
+  <img src="./docs/voltway-demo.gif" width="320" alt="VoltWay onboarding demo">
 </p>
 
 VoltWay is a simple Flutter onboarding demo for an electric vehicle charging
