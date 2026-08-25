@@ -1,5 +1,7 @@
 # VoltWay
 
+<img width="1672" height="941" alt="onboarding flutter" src="https://github.com/user-attachments/assets/be82740b-a70c-4f60-a959-560f64604843" />
+
 <p align="center">
   <img src="./docs/voltway-demo.gif" width="320" alt="VoltWay onboarding demo">
 </p>
